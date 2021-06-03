@@ -1,0 +1,13 @@
+div , h1, h2, h3, h4, p {
+  margin: 0;
+}
+
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  background-color: white;
+  font-family: 'Inter' ,'Arial', sans-serif;
+  font-weight: normal;
+}
